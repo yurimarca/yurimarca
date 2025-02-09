@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yuri Marca
 
-**Data Scientist | Machine Learning Engineer**
+**Data Scientist | Machine Learning Engineer | Researcher**
 
 I am currently focusing on software engineering best practices to productionize machine learning and artificial intelligence solutions efficiently.
 
