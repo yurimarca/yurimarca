@@ -3,8 +3,6 @@
 AI/ML Engineer passionate about **optimization**, **MLOps**, **agentic AI**, and **cloud deployments**.  
 I build production-grade ML pipelines and advanced multi-agent systems.
 
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
