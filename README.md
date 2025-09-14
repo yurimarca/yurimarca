@@ -17,7 +17,8 @@ I build production-grade ML pipelines and advanced multi-agent systems.
 
 - **Languages**: Python, C, C++, SQL, Bash (UNIX)
 - **AI/ML Frameworks**: PyTorch, Scikit-Learn, LangChain, LangGraph
-- **MLOps & Deployment**: MLflow, Weights and Biases, Docker, AWS SageMaker
+- **MLOps & Observability**: MLflow, Weights and Biases, LangSmith
+- **Deployment**: Docker, Kubernetes, AWS
 - **Version Control & CI/CD**: Git, GitHub Actions, GitLab CI/CD
 
 ## 💌 How to Reach Me
