@@ -35,7 +35,3 @@ I focus on the layers that decide whether an LLM system works in production: **e
 ## Certifications
 
 - [Claude Certified Architect – Foundations](https://www.credly.com/badges/25838dd7-bd89-4994-a060-ec7bbb5e2243/public_url) (Anthropic)
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/yurimarca) · [Website](https://yurimarca.github.io/)
