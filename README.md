@@ -38,4 +38,4 @@ I focus on the layers that decide whether an LLM system works in production: **e
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/yurimarca) · [Website](https://yurimarca.github.io/) · [yurimarca@gmail.com](mailto:yurimarca@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yurimarca) · [Website](https://yurimarca.github.io/)
