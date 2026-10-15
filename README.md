@@ -1,30 +1,41 @@
-# 👋 Hi there, I'm Yuri Marca
+# Hi, I'm Yuri Marca
 
-AI/ML Engineer passionate about **optimization**, **MLOps**, **agentic AI**, and **cloud deployments**.  
-I build production-grade ML pipelines and advanced multi-agent systems.
+**AI Engineer & Solution Architect** · Production LLM systems · Evaluation · RAG · Agents · GCP
 
-## 🚀 Featured Projects
+I design, build, and ship production LLM systems end to end, from shaping the solution with clients in pre-sales through architecture, implementation, cloud deployment, and knowledge transfer.
+
+I focus on the layers that decide whether an LLM system works in production: **evaluation**, **retrieval and data design**, and **compliance**. I build evaluation harnesses that show where accuracy is lost, and I use them to drive architecture and roadmap decisions. Before this, I spent years in industrial ML (predictive maintenance and MLOps, edge ML, computer vision, and IoT).
+
+## What I work on
+
+- **Evaluation-driven LLM engineering:** LLM-as-judge suites, trace-based root-cause analysis, and benchmarks of model, cost, and latency trade-offs before committing to an approach.
+- **Retrieval & data architecture for agents:** RAG with incremental ingestion and citation-grounded answers, NL2SQL agents, schema and retrieval design, and abstention policies so agents hold back rather than guess.
+- **Agentic & real-time multimodal systems:** Multi-agent workflows with human-in-the-loop review, and voice agents that operate web applications through live native-audio models and function calling.
+- **Regulated AI & cloud architecture:** HIPAA-compliant, event-driven pipelines on GCP, with compliance by design, architecture decision records, and full monitoring.
+- **Production ML & MLOps:** Reproducible training, deployment, and monitoring pipelines from prototype to production.
+
+## Open-source projects
 
 | Project | Description | Tech |
-|--------|------------|------|
-| [**MLOps**](https://github.com/yurimarca/mlops) | Full ML lifecycle: CI/CD, model & data versioning, drift monitoring, API deployment. | MLflow · Docker · GitHub Actions |
-| [**Agentic RAG**](https://github.com/yurimarca/agentic-rag) | Advanced Retrieval-Augmented Generation with LangGraph: conditional routing, hallucination detection, dynamic tools. | LangGraph · LangChain · Supabase |
-| [**Client Risk ML Pipeline**](https://github.com/yurimarca/client-risk-ml-pipeline) | End-to-end ML pipeline predicting client attrition risk with automated retraining & deployment. | MLflow · FastAPI · GitHub Actions |
-| [**Reflexion Agent**](https://github.com/yurimarca/reflexion-agent) | Iterative self-reflecting AI agent for reasoning and tool use. | LangGraph · LangChain |
-| [**Short-Term Rental Prices**](https://github.com/yurimarca/build-ml-pipeline-for-short-term-rental-prices) | Predicts Airbnb-style rental prices; full pipeline with testing, versioned artifacts, and automated retraining. | MLflow · Hydra · Python |
+|---|---|---|
+| [**Agentic RAG**](https://github.com/yurimarca/agentic-rag) | RAG with conditional routing, hallucination detection, and dynamic tool use. | LangGraph · LangChain · Supabase |
+| [**Reflexion Agent**](https://github.com/yurimarca/reflexion-agent) | An agent that reflects on its own output and revises it, for reasoning and tool use. | LangGraph · LangChain |
+| [**MLOps**](https://github.com/yurimarca/mlops) | The full ML lifecycle: CI/CD, model and data versioning, drift monitoring, and API deployment. | MLflow · Docker · GitHub Actions |
+| [**Client Risk ML Pipeline**](https://github.com/yurimarca/client-risk-ml-pipeline) | End-to-end attrition-risk pipeline with automated retraining and deployment. | MLflow · FastAPI · GitHub Actions |
 
-## 🛠️ Programming Languages & Tools
+## Tech stack
 
-- **Languages**: Python, C, C++, SQL, Bash (UNIX)
-- **AI/ML Frameworks**: PyTorch, Scikit-Learn, LangChain, LangGraph
-- **MLOps & Observability**: MLflow, Weights and Biases, LangSmith
-- **Deployment**: Docker, Kubernetes, AWS
-- **Version Control & CI/CD**: Git, GitHub Actions, GitLab CI/CD
+- **LLM & agents:** Google ADK, LangGraph, LangChain, Gemini (incl. Live), Vertex AI RAG Engine, Claude
+- **Evaluation & tracing:** LLM-as-judge, Langfuse, LangSmith, OpenTelemetry, Grafana
+- **Cloud:** GCP (Vertex AI, Document AI, Cloud Run, Pub/Sub, BigQuery), AWS (SageMaker)
+- **ML:** PyTorch, Hugging Face, scikit-learn, XGBoost
+- **MLOps:** MLflow, Docker, Kubernetes, GitHub Actions
+- **Backend, frontend & data:** Python, FastAPI, WebSockets/SSE, React, TypeScript, PostgreSQL, Firestore, BigQuery
 
-## 💌 How to Reach Me
+## Certifications
 
-- **LinkedIn**: [linkedin.com/in/yurimarca](https://www.linkedin.com/in/yurimarca)
-- **Personal Website**: [yurimarca.github.io](https://yurimarca.github.io/)
+- [Claude Certified Architect – Foundations](https://www.credly.com/badges/25838dd7-bd89-4994-a060-ec7bbb5e2243/public_url) (Anthropic)
 
-💪 I am always open to collaboration and discussions on data science and AI projects. Let's connect!
+## Contact
 
+[LinkedIn](https://www.linkedin.com/in/yurimarca) · [Website](https://yurimarca.github.io/) · [yurimarca@gmail.com](mailto:yurimarca@gmail.com)
